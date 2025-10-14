@@ -9,6 +9,3 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=iiishop" />
 </div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=iiishop&theme=minimal" />
-</div>

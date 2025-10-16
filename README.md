@@ -7,5 +7,8 @@
 <span>  </span>
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=iiishop" />
+   <img src="https://github-profile-trophy.vercel.app/?username=iiishop"/>
+</div>
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiishop"/>
 </div>

@@ -12,64 +12,38 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
   <samp>
     I build things I actually use. Desktop tools, game mods, AI experiments.<br/>
     Whatever language ships fastest. Python, C#, C++, Rust, Vue, GDScript.<br/>
     Currently exploring XR and agentic worlds at UCL.
   </samp>
-</p>
+</div>
 
 <br/>
 
-<h3 align="center">Featured</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/iiishop/Ring">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center" width="400">
-      <a href="https://github.com/iiishop/farmCalculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/iiishop/KMblog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center" width="400">
-      <a href="https://github.com/iiishop/cultivation-world-simulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/iiishop/Ring">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/iiishop/farmCalculator">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/iiishop/KMblog">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/iiishop/cultivation-world-simulator">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
 <br/>
 
-<h3 align="center">Stats</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=iiishop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-    </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiishop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=iiishop&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiishop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=iiishop&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiishop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
 <br/>
 
@@ -78,8 +52,6 @@
 </div>
 
 <br/>
-
-<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
   <picture>
@@ -91,15 +63,11 @@
 
 <br/>
 
-<h3 align="center">3D Contribution Graph</h3>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/iiishop/iiishop/master/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
 </div>
 
 <br/>
-
-<h3 align="center">Languages &amp; Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,fastapi,unity,godot,qt,vue,docker,git,linux,vscode&perline=7"/>

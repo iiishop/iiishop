@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuqian%20Lin&fontSize=70&fontAlignY=35&desc=iiishop&descAlignY=55&descSize=20&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=iiishop&fontSize=70&fontAlignY=35&desc=AR%2FVR+Dev+%7C+Game+Designer+%7C+UCL+CE&descAlignY=55&descSize=16&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -33,13 +33,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiishop&theme=onedark&no-frame=true&column=6&margin-w=8"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=iiishop&theme=onedark&no-frame=true&column=6&margin-w=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiishop/iiishop/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiishop/iiishop/output/github-snake.svg"/>
@@ -50,13 +50,13 @@
 <br/>
 
 <div align="center">
-  <h3>📊 3D Contribution Graph</h3>
+  <h3>3D Contribution Graph</h3>
   <img src="https://raw.githubusercontent.com/iiishop/iiishop/master/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
 </div>
 
 <br/>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,unity,qt,docker,git,linux,arduino,raspberrypi,vscode&perline=6"/>
 </div>

@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desktop+App+Builder;Game+Dev+%26+Modder;AI+Tinkerer;Tool+Maker;Always+Shipping"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desktop+App+Builder;Game+Dev+%26+Modder;AI+Tinkerer;Tool+Maker"/>
 </p>
 
 <p align="center">
@@ -14,50 +12,76 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <samp>
-    I build things I need. Window managers, input methods, farm calculators, cultivation simulators.<br/>
-    If a tool doesn't exist, I write it. If it exists but annoys me, I rewrite it.<br/>
-    Python / C# / C++ / Rust / Vue / GDScript — whatever gets the job done.<br/>
-    Currently exploring AI agents, game worlds, and XR at UCL.
+    I build things I actually use. Desktop tools, game mods, AI experiments.<br/>
+    Whatever language ships fastest. Python, C#, C++, Rust, Vue, GDScript.<br/>
+    Currently exploring XR and agentic worlds at UCL.
   </samp>
-</div>
+</p>
+
+<br/>
+
+<h3 align="center">Featured</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/iiishop/Ring">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+    <td align="center" width="400">
+      <a href="https://github.com/iiishop/farmCalculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/iiishop/KMblog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+    <td align="center" width="400">
+      <a href="https://github.com/iiishop/cultivation-world-simulator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">Stats</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=iiishop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiishop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=iiishop&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/iiishop/Ring">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true&description_lines_count=2"/>
-  </a>
-  <a href="https://github.com/iiishop/farmCalculator">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true&description_lines_count=2"/>
-  </a>
-  <a href="https://github.com/iiishop/KMblog">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true&description_lines_count=2"/>
-  </a>
-  <a href="https://github.com/iiishop/cultivation-world-simulator">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true&description_lines_count=2"/>
-  </a>
+  <img src="https://gh-trophy.cdnsoft.net/?username=iiishop&theme=onedark&no-frame=true&column=5&margin-w=10"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiishop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=iiishop&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiishop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<br/>
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=iiishop&theme=onedark&no-frame=true&column=6&margin-w=8"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiishop/iiishop/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiishop/iiishop/output/github-snake.svg"/>
@@ -67,14 +91,16 @@
 
 <br/>
 
+<h3 align="center">3D Contribution Graph</h3>
+
 <div align="center">
-  <h3>3D Contribution Graph</h3>
   <img src="https://raw.githubusercontent.com/iiishop/iiishop/master/profile-3d-contrib/profile-night-rainbow.svg" width="85%"/>
 </div>
 
 <br/>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Languages &amp; Tools</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,fastapi,unity,godot,qt,vue,docker,git,linux,vscode&perline=7"/>
 </div>

@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=iiishop&fontSize=70&fontAlignY=35&desc=AR%2FVR+Dev+%7C+Game+Designer+%7C+UCL+CE&descAlignY=55&descSize=16&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=iiishop&fontSize=70&fontAlignY=35&desc=Building+tools+I+actually+use&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AR%2FVR+Developer;Game+Designer;UCL+CE+MSc;Interactive+Experience+Builder"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desktop+App+Builder;Game+Dev+%26+Modder;AI+Tinkerer;Tool+Maker;Always+Shipping"/>
   </a>
 </p>
 
@@ -16,10 +16,28 @@
 
 <div align="center">
   <samp>
-    <b>AR/VR Developer & Game Designer</b> based in London.<br/>
-    Currently pursuing Computer Engineering MSc at UCL.<br/>
-    Building interactive experiences with Unity, Python, and cutting-edge XR tech.
+    I build things I need. Window managers, input methods, farm calculators, cultivation simulators.<br/>
+    If a tool doesn't exist, I write it. If it exists but annoys me, I rewrite it.<br/>
+    Python / C# / C++ / Rust / Vue / GDScript — whatever gets the job done.<br/>
+    Currently exploring AI agents, game worlds, and XR at UCL.
   </samp>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/iiishop/Ring">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true&description_lines_count=2"/>
+  </a>
+  <a href="https://github.com/iiishop/farmCalculator">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true&description_lines_count=2"/>
+  </a>
+  <a href="https://github.com/iiishop/KMblog">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true&description_lines_count=2"/>
+  </a>
+  <a href="https://github.com/iiishop/cultivation-world-simulator">
+    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true&description_lines_count=2"/>
+  </a>
 </div>
 
 <br/>
@@ -58,7 +76,7 @@
 
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,unity,qt,docker,git,linux,arduino,raspberrypi,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,fastapi,unity,godot,qt,vue,docker,git,linux,vscode&perline=7"/>
 </div>
 
 <br/>

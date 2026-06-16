@@ -23,23 +23,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/iiishop/Ring">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=Ring&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/iiishop/farmCalculator">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=farmCalculator&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/iiishop/KMblog">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=KMblog&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/iiishop/cultivation-world-simulator">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=iiishop&repo=cultivation-world-simulator&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=iiishop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="160" src="https://streak-stats.demolab.com/?user=iiishop&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiishop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>

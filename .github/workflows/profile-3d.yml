@@ -14,7 +14,7 @@ jobs:
       - name: Create settings.json
         run: |
           cat << 'EOF' > settings.json
-          {"type":"rainbow","backgroundColor":"#0d1117","radarColor":"#7C3AED","growingAnimation":true,"contribColors":["#161b22","#2D1B69","#5B21B6","#7C3AED","#06B6D4"]}
+          {"type":"rainbow","fileName":"profile-night-rainbow.svg","backgroundColor":"#0d1117","foregroundColor":"#eeeeff","strongColor":"rgb(167,139,250)","weakColor":"#666666","radarColor":"rgb(124,58,237)","growingAnimation":true,"saturation":"50%","contribLightness":["25%","35%","40%","45%","55%"],"duration":"10s","hueRatio":-7}
           EOF
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:

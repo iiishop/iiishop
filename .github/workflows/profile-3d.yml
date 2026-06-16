@@ -11,11 +11,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+      - name: Create settings.json
+        run: |
+          cat << 'EOF' > settings.json
+          {"type":"rainbow","backgroundColor":"#0d1117","radarColor":"#7C3AED","growingAnimation":true,"contribColors":["#161b22","#2D1B69","#5B21B6","#7C3AED","#06B6D4"]}
+          EOF
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"type":"rainbow","backgroundColor":"#0d1117","radarColor":"#7C3AED","growingAnimation":true,"contribColors":["#161b22","#2D1B69","#5B21B6","#7C3AED","#06B6D4"]}'
+          SETTING_JSON: settings.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
